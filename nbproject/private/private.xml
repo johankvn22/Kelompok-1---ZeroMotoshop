@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/CreateTransactionServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Model/ProductModel.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Controller/ProductController.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/web/views/create_transaction.jsp</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/DeleteTransactionServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/IndexServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Helper/StringHelper.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/web/views/about.jsp</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Model/TransactionModel.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Controller/TransactionController.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Controller/BaseController.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/CreateServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Controller/ProductTypeController.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Controller/UserController.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/TransactionServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/web/views/transaction.jsp</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/EditServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/web/views/edit_transaction.jsp</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Query/TransactionQuery.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Servlet/EditTransactionServlet.java</file>
+            <file>file:/C:/Users/Johan%20Kevin/Documents/NetBeansProjects/ZeroMotoshop/ZeroMotoshop/src/java/Query/ProductTypeQuery.java</file>
+        </group>
+    </open-files>
+</project-private>
